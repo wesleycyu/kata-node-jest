@@ -3,10 +3,11 @@
   "scripts": {
     "test": "jest",
     "testWatch": "jest --watchAll",
-    "repl": "node ./src/repl.mjs"
+    "repl": "npx babel-node ./src/repl.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.3",
+    "@babel/core": "^7.24.9",
+    "@babel/node": "^7.25.0",
     "@babel/preset-env": "^7.19.3",
     "@types/jest": "^29.1.1",
     "@types/node": "^20.14.12",
