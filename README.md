@@ -1,10 +1,11 @@
-# Kata Node.js Starter Project
+# Node Starter Environment
 
-__A starter project for coding kata in Node.js.__
+**A starter project for coding kata in Node.js.**
 
 Minimal Node.js Starter for coding katas.
 
 ## Tools
+
 - Jest for testing
 - Babel to enable nice things like `import` in Node
 

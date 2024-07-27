@@ -1,5 +1,5 @@
-export const MSG = 'hello'
+export const MSG = "hello";
 
-export function hello () {
-  return MSG
+export function hello() {
+  return MSG;
 }
